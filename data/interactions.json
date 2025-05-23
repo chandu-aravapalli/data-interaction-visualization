@@ -1,0 +1,26 @@
+{
+  "product1": {
+    "clicks": 3,
+    "hovers": 6
+  },
+  "product2": {
+    "clicks": 6,
+    "hovers": 4
+  },
+  "product3": {
+    "clicks": 5,
+    "hovers": 4
+  },
+  "product4": {
+    "clicks": 3,
+    "hovers": 5
+  },
+  "product5": {
+    "clicks": 4,
+    "hovers": 5
+  },
+  "product6": {
+    "clicks": 3,
+    "hovers": 7
+  }
+}
